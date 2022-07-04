@@ -1,22 +1,17 @@
-.botoes{
-    border-radius: 35px;
-    padding: 10px;
+.chaves{
+    border-radius: 40px;
+    padding: 8px;
+    margin: 4px;
+    margin-left: 10px;
     border: 1px solid;
     color: #c0c0c0ea;
-    background-color: #FFF;
     color:#000;
+    background-color: #FFF;
     border: 1px solid #c0c0c0ea;
-    margin: 5px;
-    cursor: pointer;
+   
 }
-
-.caixa{
-    margin-right: 600px;
-    margin-top: 20px;
-}
-
-.botoes:hover{
+.chaves:hover{
     color: #FFF;
-    border: 1px solid #13a1bd;
     color:#13a1bd;
+    border: 1px solid #13a1bd;
 }
